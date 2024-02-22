@@ -3,6 +3,15 @@
 # Microcontroladores
 Guia de atividades utilizando PIC 12F675, baseado na disciplina "Microcontroladores" ministrada na Universidade Federal da Paraíba (UFPB) - [Prof. Dr. Mardson Freitas de Amorim](https://iwada2023.ci.ufpb.br/home/mardson2/).
 
+## Table of Contents
+- [Sobre](#sobre)
+- [Tipos](#tipos)
+- [Aplicações](#aplicações)
+- [Vantagens](#vantagens)
+- [Sobre o PIC12F675](#sobre-o-pic12f675)
+- [Criando o primeiro projeto](#criando-o-primeiro-projeto)
+- [Atividades](#atividades)
+
 ## Sobre
 Um microcontrolador é um dispositivo compacto e altamente integrado que contém um processador central, memória, periféricos de entrada/saída e, em alguns casos, interfaces de comunicação. Ele é projetado para controlar funções específicas em sistemas embarcados. Ao contrário dos microprocessadores, que geralmente precisam de componentes externos para realizar tarefas específicas, os microcontroladores são projetados para serem autossuficientes. <br/>
 
@@ -25,7 +34,7 @@ Ademais, as variações de microcontroladores se definem também pelas suas conf
 ## Aplicações
 Microcontroladores são peças fundamentais em uma diversidade de setores, desempenhando papéis cruciais em uma ampla gama de aplicações. Eles estão presentes em: Eletrodoméstico; Eletrônicos de consumo; Setor automotivo; Sistemas de controle industrial; Equipamentos médicos; Dispositivos de comunicação; Automação residencial. <br/>
 
-## Benefícios
+## Vantagens
 Eles oferecem uma integração abrangente ao combinar CPU, memória e periféricos em um único chip, simplificando significativamente o design de sistemas embarcados. Essa abordagem compacta contribui para a eficiência no desenvolvimento de dispositivos eletrônicos.<br/>
 
 Além disso, a ênfase em baixo consumo de energia destaca-se como uma característica fundamental em muitos microcontroladores, tornando-os ideais para dispositivos alimentados por bateria. Essa eficiência energética contribui para a durabilidade e vida útil estendida de dispositivos portáteis e sistemas embarcados.<br/>
@@ -100,9 +109,8 @@ Para rodar o programa e realizar a verificação de sinal, tempo ou valor das va
 5. ***<a href="https://github.com/lauradefaria/Microcontroladores/tree/main/Atividade%205">Atividade 5: Manuseando GP2 por interrupção e estímulo externo</a>***  <br/>
 6. ***<a href="https://github.com/lauradefaria/Microcontroladores/tree/main/Atividade%206">Atividade 6: Semáforo de trânsito</a>***  <br/>
 
----
-## Autora
-|<a href="https://www.linkedin.com/in/lauradefaria/" target="_blank">**Laura de Faria**</a> | 
-|:-----------------------------------------------------------------------------------------:|
-|                   <img src="imgs/laura.png" width="200px"> </img>                            |
-|               <a href="http://github.com/lauradefaria" target="_blank">`github.com/lauradefaria`</a>      |
+# License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
